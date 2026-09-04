@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-kumar-11a923334?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankumarlp100@gmail.com)  [![portfolio](https://img.shields.io/badge/portfolio-D14837?logo=portfolio&logoColor=yellow)](https://kiransportfolio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-kumar-11a923334?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankumarlp100@gmail.com)  [![portfolio](https://img.shields.io/badge/portfolio-D14837?logo=lovable&logoColor=yellow)](https://kiransportfolio.lovable.app/)
 
 
 
