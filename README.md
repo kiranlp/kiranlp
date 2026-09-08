@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=kiranlp&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?
-username=kiranlp&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 [![](https://komarev.com/ghpvc/?username=kiranlp&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
