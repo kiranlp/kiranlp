@@ -1,6 +1,6 @@
    Hi there 👋
 
-- 🔭 I’m currently working on C projects
+- 🔭 I’m currently working on C Program Concepts
 - 🌱 I’m currently learning Embedded systems
 
 
