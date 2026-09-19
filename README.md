@@ -1,7 +1,7 @@
    Hi there 👋
 
 - 🔭 I’m currently Learning C Program Concepts
-- 🌱 currently Focusing on Embedded Systems Development
+- 🌱 Currently Focusing on Embedded Systems Development
 
 
 
