@@ -1,4 +1,4 @@
-   Hi there 👋
+  Hi there 👋
 
 - 🔭 I’m currently Learning C Program Concepts
 - 🌱 Currently Focusing on Embedded Systems Development
